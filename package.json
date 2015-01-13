@@ -1,0 +1,44 @@
+{
+  "name": "jasonyounker",
+  "author": "Jason Younker",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Jason Younker",
+      "email": "jason@ynkr.org"
+    }
+  ],
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone-super-sync": "^0.0.10",
+    "backbone.babysitter": "^0.1.4",
+    "backbone.marionette": "^1.8.3",
+    "backbone.wreqr": "^1.3.1",
+    "body-parser": "*",
+    "browserify": "^4.1.3",
+    "coffee-script": "^1.7.1",
+    "coffeeify": "^0.6.0",
+    "express": "^4.2.0",
+    "express-handlebars": "^1.1.0",
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "^0.3.4",
+    "grunt-browserify": "^2.1.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-concat-css": "*",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "handlebars": "^1.3.0",
+    "hbsfy": "^1.3.2",
+    "jquery": "^2.1.1",
+    "load-grunt-tasks": "^0.4.0",
+    "nconf": "^0.6.9",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt-mocha-test": "^0.10.2",
+    "grunt-sass": "^0.17.0",
+    "supertest": "^0.12.0"
+  }
+}

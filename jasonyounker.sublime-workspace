@@ -1,0 +1,1883 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pro",
+				"ssProto"
+			],
+			[
+				"Mo",
+				"MozSpamscoreProto"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"linke",
+				"linkscape-ose"
+			],
+			[
+				"link",
+				"linkscape-ose"
+			],
+			[
+				"comment",
+				"comment	comment"
+			],
+			[
+				"metho",
+				"method_name"
+			],
+			[
+				"lsapi",
+				"lsapi_url_metrics"
+			],
+			[
+				"expor",
+				"export_upload_boundaries"
+			],
+			[
+				"to_i",
+				"to_i"
+			],
+			[
+				"fol",
+				"follow"
+			],
+			[
+				"for_day",
+				"for_day_from_date"
+			],
+			[
+				"end_",
+				"end_of_day"
+			],
+			[
+				"fi",
+				"filepath"
+			],
+			[
+				"file",
+				"files_to_move"
+			],
+			[
+				"yest",
+				"yesterdays_stats"
+			],
+			[
+				"H",
+				"HttpsStat"
+			],
+			[
+				"daily",
+				"daily_key"
+			],
+			[
+				"equi",
+				"equity_passing_links_copy"
+			],
+			[
+				"external_fo",
+				"external_followed_links_copy"
+			],
+			[
+				"EXT",
+				"EXTERNAL_NONEQUITY_PADDING_LINKS_NAME"
+			],
+			[
+				"delete",
+				"delete_threshold"
+			],
+			[
+				"unique_users_count",
+				"unique_users_count_key"
+			],
+			[
+				"redi",
+				"redis_source"
+			],
+			[
+				"red",
+				"redis_source"
+			],
+			[
+				"https_search",
+				"https_search_found_count"
+			],
+			[
+				"https_sea",
+				"https_search_found_count"
+			],
+			[
+				"begi",
+				"beginning_of_day"
+			],
+			[
+				"http",
+				"https_search_found_count"
+			],
+			[
+				"https_sear",
+				"https_search_count"
+			],
+			[
+				"http_sear",
+				"http_searched_https_found_key"
+			],
+			[
+				"unique",
+				"unique_users_count"
+			],
+			[
+				"https_s",
+				"https_searches_key"
+			],
+			[
+				"uniqu",
+				"unique_users_key"
+			],
+			[
+				"with_sl",
+				"with_slash_long"
+			],
+			[
+				"no_sl",
+				"no_slash_simple"
+			],
+			[
+				"stri",
+				"strip_trailing_slash"
+			],
+			[
+				"uni",
+				"unique_users_count"
+			],
+			[
+				"desc",
+				"described_class"
+			],
+			[
+				"redire",
+				"redirect_checker_source"
+			],
+			[
+				"typ",
+				"typhoeus_response"
+			],
+			[
+				"redir",
+				"redirect_site"
+			],
+			[
+				"requ",
+				"request_chain"
+			],
+			[
+				"respons",
+				"response_code"
+			],
+			[
+				"redirec_",
+				"redirect_checker"
+			],
+			[
+				"canon",
+				"canonical_site"
+			],
+			[
+				"cano",
+				"canonical_url"
+			],
+			[
+				"with",
+				"without_schema"
+			],
+			[
+				"for",
+				"force_report_path"
+			],
+			[
+				"canonica",
+				"canonical_url"
+			],
+			[
+				"https",
+				"https_crawl_missing"
+			],
+			[
+				"found",
+				"found_noncanonical"
+			],
+			[
+				"no",
+				"found_noncanonical"
+			],
+			[
+				"can",
+				"canonical_metrics"
+			],
+			[
+				"top-lin",
+				"top-links-anchor-col-width"
+			],
+			[
+				"Link",
+				"LinkscapeError"
+			],
+			[
+				"sub",
+				"subscribe_for_social"
+			],
+			[
+				"soci",
+				"social_row_type"
+			],
+			[
+				"url",
+				"urlCount"
+			],
+			[
+				"total_",
+				"total_entries"
+			],
+			[
+				"num_l",
+				"num_links_for_url"
+			],
+			[
+				"num_link",
+				"num_links_for"
+			],
+			[
+				"extr",
+				"extra_path"
+			],
+			[
+				"ext",
+				"extra_path"
+			],
+			[
+				"current",
+				"current_path"
+			],
+			[
+				"rails",
+				"rails_env"
+			],
+			[
+				"sty",
+				"stylesheets"
+			],
+			[
+				"buste",
+				"busted_with_no_file"
+			],
+			[
+				"upl",
+				"upload_to_s3"
+			],
+			[
+				"re",
+				"resque"
+			],
+			[
+				"process",
+				"processing_error"
+			],
+			[
+				"new_st",
+				"new_style_export"
+			],
+			[
+				"cance",
+				"canceled"
+			],
+			[
+				"req",
+				"requested_today"
+			],
+			[
+				"pro",
+				"processing_error"
+			],
+			[
+				"chun",
+				"chunk_id"
+			],
+			[
+				"not",
+				"notify"
+			],
+			[
+				"new",
+				"new_style_export"
+			],
+			[
+				"invalid",
+				"invalid_chunk"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"ex",
+				"export_action_set"
+			],
+			[
+				"ana",
+				"analysis"
+			],
+			[
+				"anal",
+				"analyses"
+			],
+			[
+				"xref",
+				"xref_id"
+			],
+			[
+				"xr",
+				"xref_id"
+			],
+			[
+				"Com",
+				"ComparisonReport"
+			],
+			[
+				"Ana",
+				"AnalyzeReport"
+			],
+			[
+				"cache_",
+				"cache_is_valid"
+			],
+			[
+				"saved_repo",
+				"saved_reports_target"
+			],
+			[
+				"saved_re",
+				"saved_reports_target"
+			],
+			[
+				"conte",
+				"content_html"
+			],
+			[
+				"meta",
+				"meta_cache_key"
+			],
+			[
+				"rebuil",
+				"rebuild_content"
+			],
+			[
+				"cache",
+				"cachekey"
+			],
+			[
+				"cach",
+				"cachekey"
+			],
+			[
+				"fold",
+				"folder_exclude_patterns"
+			],
+			[
+				"CHI",
+				"CHI_Max_Time"
+			],
+			[
+				"cssOu",
+				"cssOutputFile"
+			],
+			[
+				"jsOutpu",
+				"jsOutputFile"
+			],
+			[
+				"_old",
+				"_oldAwsAsset"
+			],
+			[
+				"STAG",
+				"STAGING"
+			],
+			[
+				"_is",
+				"_is_valid_stage"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"xAxis",
+				"xAxisTitle"
+			],
+			[
+				"wonk",
+				"wonkJsVersionedFilename"
+			],
+			[
+				"loca",
+				"localWonkJsFilepath"
+			],
+			[
+				"wonkJs",
+				"wonkJsFilename"
+			],
+			[
+				"version",
+				"versionedName"
+			],
+			[
+				"retur",
+				"returnCurrentFile"
+			],
+			[
+				"versi",
+				"versionedName"
+			],
+			[
+				"appen",
+				"appendBtnTo"
+			],
+			[
+				"ap",
+				"appendBtnTo"
+			],
+			[
+				"inu",
+				"inputAttrs"
+			],
+			[
+				"update",
+				"updateInputAttrs_"
+			],
+			[
+				"input",
+				"inputAttrs"
+			],
+			[
+				"C",
+				"show_at_center"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "apps/website/styles/website.scss",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/website/templates/layouts/application.hbs",
+			"settings":
+			{
+				"buffer_size": 1547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 41 files for \"partialsDir: 'server/templates'\"\n\n0 matches across 0 files\n\n\nSearching 41 files for \"partialsDir\"\n\n/websites/jasonyounker/apps/configure_handlebars.coffee:\n    7      extname: '.hbs'\n    8      layoutsDir: \"apps/#{app_name}/templates/layouts\"\n    9:     partialsDir: \"apps/#{app_name}/templates\"\n   10      defaultLayout: 'application'\n   11      helpers: HandlebarsHelpers\n\n1 match in 1 file\n\n\nSearching 41 files for \"marionette\"\n\n/websites/jasonyounker/package.json:\n   13      \"backbone-super-sync\": \"^0.0.10\",\n   14      \"backbone.babysitter\": \"^0.1.4\",\n   15:     \"backbone.marionette\": \"^1.8.3\",\n   16      \"backbone.wreqr\": \"^1.3.1\",\n   17      \"body-parser\": \"*\",\n\n/websites/jasonyounker/apps/website/scripts/main.coffee:\n    3  Backbone.Wreqr = require 'backbone.wreqr'\n    4  Backbone.ChildViewContainer = require 'backbone.babysitter'\n    5: Marionette = require 'backbone.marionette'\n    6  Routes = require './routes.coffee'\n    7  Router = require './router.coffee'\n    .\n    9  module.exports = ->\n   10    Backbone.$ = $\n   11:   Marionette.$ = $\n   12  \n   13:   window.app = new Marionette.Application\n   14    options = {}\n   15  \n\n/websites/jasonyounker/apps/website/scripts/router.coffee:\n    1  Model = require '../../../shared/scripts/models/base.coffee'\n    2: Marionette = require 'backbone.marionette'\n    3  \n    4: module.exports = class Router extends Marionette.Controller\n    5  \n    6    index: ->\n\n/websites/jasonyounker/apps/website/scripts/routes.coffee:\n    1: Marionette = require 'backbone.marionette'\n    2  \n    3: module.exports = class Routes extends Marionette.AppRouter\n    4  \n    5    appRoutes:\n\n11 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 1693,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "apps/website/templates/pages/homepage.hbs",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1111,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntsc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"synru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet: block",
+				"Snippet: New Block"
+			],
+			[
+				"synta coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntacoff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntajava",
+				"Set Syntax: Java"
+			],
+			[
+				"synta cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"synt json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"syntarub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"setsyrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Snippet: commen",
+				"Snippet: comment"
+			],
+			[
+				"sy rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"conver spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"kill",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/websites/jasonyounker",
+		"/websites/jasonyounker/apps",
+		"/websites/jasonyounker/apps/website",
+		"/websites/jasonyounker/apps/website/scripts",
+		"/websites/jasonyounker/apps/website/styles",
+		"/websites/jasonyounker/apps/website/templates",
+		"/websites/jasonyounker/apps/website/templates/layouts",
+		"/websites/jasonyounker/apps/website/templates/pages",
+		"/websites/jasonyounker/express",
+		"/websites/jasonyounker/express/lib",
+		"/websites/jasonyounker/express/server",
+		"/websites/jasonyounker/shared",
+		"/websites/jasonyounker/shared/scripts",
+		"/websites/jasonyounker/shared/scripts/lib",
+		"/websites/jasonyounker/shared/scripts/models",
+		"/websites/jasonyounker/shared/scripts/vendor"
+	],
+	"file_history":
+	[
+		"/websites/jasonyounker/apps/website/index.coffee",
+		"/websites/jasonyounker/apps/website/scripts/router.coffee",
+		"/websites/jasonyounker/shared/scripts/lib/sharify.coffee",
+		"/websites/jasonyounker/apps/website/scripts/main.coffee",
+		"/websites/jasonyounker/apps/website/scripts/setup.coffee",
+		"/websites/jasonyounker/express/server/routes.coffee",
+		"/websites/jasonyounker/apps/website/styles/website.scss",
+		"/websites/jasonyounker/apps/website/styles/vendor/foundation.scss",
+		"/websites/jasonyounker/shared/scripts/vendor/modernizr.js",
+		"/websites/jasonyounker/Gruntfile.coffee",
+		"/websites/jasonyounker/apps/website/templates/pages/homepage.hbs",
+		"/websites/jasonyounker/apps/website/templates/layouts/application.hbs",
+		"/websites/jasonyounker/express/lib/request_logger.coffee",
+		"/websites/jasonyounker/express/server.coffee",
+		"/websites/jasonyounker/public/scripts/website.js",
+		"/websites/jasonyounker/apps/website/scripts/vendor/modernizr.js",
+		"/websites/jasonyounker/apps/foo.less",
+		"/websites/jasonyounker/package.json",
+		"/websites/jasonyounker/express/config/environments/production.json",
+		"/websites/jasonyounker/public/styles/website.css",
+		"/websites/jasonyounker/Gemfile",
+		"/websites/jasonyounker/README.md",
+		"/websites/jasonyounker/shared/scripts/vendor/jquery.min.js",
+		"/websites/jasonyounker/apps/website/styles/website.less",
+		"/websites/jasonyounker/Gemfile.lock",
+		"/websites/jasonyounker/apps/api/routes/index.coffee",
+		"/websites/jasonyounker/apps/api/scripts/models/links_manager.coffee",
+		"/websites/jasonyounker/express/server/setup.coffee",
+		"/websites/jasonyounker/apps/configure_handlebars.coffee",
+		"/websites/jasonyounker/apps/website/scripts/models/links.coffee",
+		"/websites/jasonyounker/apps/api/scripts/models/apis/base.coffee",
+		"/websites/jasonyounker/shared/scripts/models/base.coffee",
+		"/websites/jasonyounker/express/config/environments/staging.json",
+		"/websites/jasonyounker/apps/api/index.coffee",
+		"/websites/jasonyounker/apps/sandbox/templates/pages/index.hbs",
+		"/websites/jasonyounker/apps/sandbox/scripts/sandbox.coffee",
+		"/websites/jasonyounker/apps/sandbox/scripts/spamscore.coffee",
+		"/websites/jasonyounker/apps/sandbox/styles/spamscore.less",
+		"/websites/jasonyounker/public/styles/sandbox.css",
+		"/websites/jasonyounker/apps/sandbox/styles/sandbox.less",
+		"/websites/jasonyounker/apps/sandbox/templates/layouts/application.hbs",
+		"/websites/jasonyounker/apps/sandbox/index.coffee",
+		"/websites/jasonyounker/apps/sandbox/routes/index.coffee",
+		"/websites/jasonyounker/public/scripts/sandbox.js",
+		"/websites/jasonyounker/apps/sandbox/tests/routes_test.coffee",
+		"/websites/jasonyounker/jasonyounker.sublime-project",
+		"/websites/jasonyounker/.editorconfig",
+		"/websites/jasonyounker/public/scripts/admin.js",
+		"/websites/jasonyounker/apps/website/styles/partials/_sticky_footer.less",
+		"/websites/jasonyounker/apps/website/styles/partials/_natural_box_model.less",
+		"/websites/jasonyounker/apps/admin/templates/layouts/application.hbs",
+		"/websites/jasonyounker/express/config/application.json",
+		"/websites/jasonyounker/apps/admin/styles/admin.less",
+		"/websites/jasonyounker/public/scripts/vendor/highcharts.js",
+		"/websites/jasonyounker/shared/scripts/lib/mozauth_helper.coffee",
+		"/websites/jasonyounker/apps/admin/routes/index.coffee",
+		"/websites/jasonyounker/config/servers.json",
+		"/websites/jasonyounker/express/server/config.coffee",
+		"/websites/jasonyounker/apps/api/scripts/models/apis/ose.coffee",
+		"/websites/jasonyounker/apps/website/templates/layouts/_header.hbs",
+		"/websites/jasonyounker/apps/website/templates/layouts/_footer.hbs",
+		"/websites/jasonyounker/foo.less",
+		"/websites/jasonyounker/apps/website/styles/partials/_two_col_layout.scss",
+		"/websites/jasonyounker/apps/website/styles/partials/_sticky_footer.scss",
+		"/websites/jasonyounker/apps/admin/styles/foo.less",
+		"/websites/jasonyounker/bower_components/modernizr/feature-detects/notification.js",
+		"/websites/jasonyounker/node_modules/browserify/node_modules/glob/test/new-glob-optional-options.js",
+		"/websites/jasonyounker/bower_components/highcharts/modules/no-data-to-display.js",
+		"/websites/jasonyounker/node_modules/coffee-script/lib/coffee-script/nodes.js",
+		"/websites/jasonyounker/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/test/api.js",
+		"/websites/jasonyounker/node_modules/chai/lib/chai/utils/addProperty.js",
+		"/websites/jasonyounker/node_modules/grunt-contrib-clean/AUTHORS",
+		"/websites/moz/OpenSiteExplorer/config/redis.yml",
+		"/websites/moz/OpenSiteExplorer/config/routes.rb",
+		"/websites/moz/OpenSiteExplorer/config/initializers/linkscape.rb",
+		"/websites/moz/OpenSiteExplorer/config/lsapi.yml",
+		"/websites/moz/OpenSiteExplorer/config/deploy/production.rb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/reports_controller.rb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/links_controller.rb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/application_controller.rb",
+		"/Users/younker/Desktop/echelon-goals",
+		"/Users/younker/Desktop/echelon-infrastructure-doc",
+		"/websites/moz/OpenSiteExplorer/config/database.yml",
+		"/websites/moz/gaia/foo",
+		"/websites/moz/OpenSiteExplorer/app/decorators/linkscape/resource_decorator.rb",
+		"/websites/moz/OpenSiteExplorer/config/deploy.rb",
+		"/websites/moz/OpenSiteExplorer/gruntfile.coffee",
+		"/websites/moz/OpenSiteExplorer/Gemfile.lock",
+		"/websites/moz/OpenSiteExplorer/config/config.yml",
+		"/websites/moz/OpenSiteExplorer/config.ru",
+		"/websites/moz/OpenSiteExplorer/config/admin_users.yml",
+		"/websites/moz/OpenSiteExplorer/spec/routing/admin_routes_spec.rb",
+		"/websites/moz/OpenSiteExplorer/spec/decorators/resources/resource_decorator_spec.rb",
+		"/websites/moz/OpenSiteExplorer/app/decorators/resources/resource_decorator.rb",
+		"/websites/moz/OpenSiteExplorer/config/environments/production.rb",
+		"/websites/moz/OpenSiteExplorer/app/helpers/application_helper.rb",
+		"/websites/moz/OpenSiteExplorer/app/models/ability.rb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/api_controller.rb",
+		"/websites/moz/OpenSiteExplorer/Gemfile",
+		"/websites/moz/OpenSiteExplorer/Procfile",
+		"/websites/moz/OpenSiteExplorer/public/javascripts/app/reports_no_results.js",
+		"/websites/moz/OpenSiteExplorer/app/views/export_mailer/export_complete.html.erb",
+		"/websites/moz/OpenSiteExplorer/config/initializers/notifications.rb",
+		"/websites/moz/OpenSiteExplorer/Capfile",
+		"/websites/moz/OpenSiteExplorer/config/deploy/staging.rb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/exports_controller.rb",
+		"/websites/moz/OpenSiteExplorer/config/schedule.yml",
+		"/websites/moz/OpenSiteExplorer/lib/tasks/exports.rake",
+		"/websites/moz/OpenSiteExplorer/lib/redirect_checker.rb",
+		"/websites/moz/OpenSiteExplorer/app/views/links/index.html.erb",
+		"/websites/moz/OpenSiteExplorer/app/views/layouts/nada.html.erb",
+		"/websites/moz/OpenSiteExplorer/app/views/layouts/reports.html.erb",
+		"/websites/moz/OpenSiteExplorer/app/controllers/advanced_exports_controller.rb",
+		"/websites/moz/OpenSiteExplorer/app/jobs/export_checker.rb",
+		"/websites/moz/OpenSiteExplorer/src/styles/advanced_exports.scss",
+		"/websites/moz/OpenSiteExplorer/app/decorators/application_decorator.rb",
+		"/websites/moz/OpenSiteExplorer/spec/controllers/admin/advanced_export_credits_controller_spec.rb",
+		"/websites/moz/OpenSiteExplorer/app/views/exports/_delivery_options.html.erb",
+		"/websites/moz/OpenSiteExplorer/lib/app_config.rb",
+		"/websites/moz/OpenSiteExplorer/app/views/layouts/application.html.erb",
+		"/Users/younker/.ssh/config",
+		"/websites/moz/OpenSiteExplorer/app/decorators/fresh_link_decorator.rb",
+		"/websites/moz/OpenSiteExplorer/app/models/fresh_link.rb",
+		"/websites/moz/OpenSiteExplorer/app/models/resources/url_metric.rb",
+		"/websites/moz/OpenSiteExplorer/spec/helpers/application_helper_spec.rb",
+		"/websites/moz/OpenSiteExplorer/config/application.rb",
+		"/websites/moz/OpenSiteExplorer/.ruby-version",
+		"/websites/moz/OpenSiteExplorer/app/helpers/admin/configuration_values_helper.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/websites/moz/ose/OpenSiteExplorer",
+			"/OpenSiteExplorer",
+			"OpenSiteExplorer",
+			"",
+			"cron_wonk_socialgraph_cleanup.pl",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"marionette",
+			"partialsDir",
+			"partialsDir: 'server/templates'",
+			"setup",
+			"serversideStash",
+			"next()",
+			"FooModel",
+			"foo",
+			"MainRouteModel",
+			"StashTest",
+			"FooModel",
+			"Model",
+			"stash",
+			"MainRouteModel",
+			"sharify busted",
+			"concat_css",
+			"Modernizr",
+			"publicScripts",
+			"concat_css",
+			"apps",
+			"css",
+			"\"",
+			"apps",
+			"dadada",
+			"compressed",
+			"links",
+			"api",
+			"foo",
+			"express3",
+			"espress3",
+			"bottlene",
+			"BaseAPI",
+			"routes",
+			"server/route",
+			"request_logg",
+			"echelon",
+			"api",
+			"div",
+			"spamscore",
+			"spam-score",
+			"Proto",
+			"this.",
+			"xfoo",
+			"attrName",
+			"updateClock",
+			"SSProto",
+			"MozSpamscore",
+			"XFoo",
+			"XFoo.",
+			"xfoo",
+			"XFoo",
+			"XFooProto",
+			"XFoo",
+			"xfoo",
+			"XFoo",
+			"MozSpamscore",
+			"spam score",
+			"ssProto",
+			"detachedCallback",
+			"MozSpamscoreProto",
+			"xfoo",
+			"XFoo",
+			"->",
+			"XFooProto",
+			"jquery.min.map",
+			"jquery",
+			"admin",
+			"Admin",
+			"express3-ha",
+			"@ehouseoff",
+			"mailto",
+			"models/links",
+			"OSEAPI",
+			"mozau",
+			"admin",
+			"'",
+			"cliensideConfig",
+			"bureau",
+			"was",
+			"overarching",
+			"or",
+			"clientside",
+			"compilation",
+			"modules",
+			"paradigm",
+			"OSEyayouknowme",
+			"independant",
+			"def ensure_par",
+			"def fetch_",
+			"def ensure_para",
+			"check_things",
+			"ensure_params",
+			"domain",
+			"external",
+			"equity",
+			"&",
+			"config/config.yml",
+			"AppConfig.*host",
+			"styled_bare_link_to",
+			"AppConfig.*host",
+			"redis_host",
+			"bot_spoofing_detection",
+			"render",
+			":only =>",
+			"def site",
+			"num_nofollow_links_to_pag",
+			"name",
+			"layout",
+			"FreshLinkDecorator",
+			"delete",
+			"Unable to update from payload",
+			"index_stats",
+			"Linkscape::Link",
+			"_fetcher",
+			"retrying",
+			"payload = [mock_resource()]",
+			"Retry",
+			"RetryingResource",
+			"EOFError",
+			"retry",
+			"retrying",
+			"RetryingResource",
+			"rescue",
+			"Timeout::Error",
+			"rescue",
+			"rescue_from",
+			"Timeout",
+			"StandardError"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"link_to_moz_products",
+			"link_to_moz_pro",
+			"",
+			"}}\"",
+			"}}\"\n",
+			"}}",
+			"}}\"",
+			"\"{{"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "apps/website/styles/website.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "apps/website/templates/layouts/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1693,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										278,
+										289
+									],
+									[
+										603,
+										613
+									],
+									[
+										877,
+										887
+									],
+									[
+										908,
+										918
+									],
+									[
+										1070,
+										1080
+									],
+									[
+										1121,
+										1131
+									],
+									[
+										1309,
+										1319
+									],
+									[
+										1340,
+										1350
+									],
+									[
+										1405,
+										1415
+									],
+									[
+										1521,
+										1531
+									],
+									[
+										1552,
+										1562
+									],
+									[
+										1617,
+										1627
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 3,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "apps/website/templates/pages/homepage.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								321
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 400.0
+	},
+	"output.exec":
+	{
+		"height": 84.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "jasonyounker.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"web/lay",
+				"apps/website/templates/layouts/application.hbs"
+			],
+			[
+				"",
+				"express/server/routes.coffee"
+			],
+			[
+				"grunt",
+				"Gruntfile.coffee"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"ose.coff",
+				"shared/scripts/models/base.coffee"
+			],
+			[
+				"api/base",
+				"apps/api/scripts/models/apis/base.coffee"
+			],
+			[
+				"linkma",
+				"apps/api/scripts/models/links_manager.coffee"
+			],
+			[
+				"linkman",
+				"apps/api/scripts/models/links_manager.coffee"
+			],
+			[
+				"api/rout",
+				"apps/api/routes/index.coffee"
+			],
+			[
+				"exp/ser/rout",
+				"express/server/routes.coffee"
+			],
+			[
+				"sandbox",
+				"apps/sandbox/styles/sandbox.less"
+			],
+			[
+				"homepag",
+				"apps/website/templates/pages/homepage.hbs"
+			],
+			[
+				"setupco",
+				"express/server/setup.coffee"
+			],
+			[
+				"appli",
+				"apps/website/templates/layouts/application.hbs"
+			],
+			[
+				"homep",
+				"apps/website/templates/pages/homepage.hbs"
+			],
+			[
+				"setup",
+				"express/server/setup.coffee"
+			],
+			[
+				"layout",
+				"apps/website/templates/layouts/application.hbs"
+			],
+			[
+				"na",
+				"apps/website/styles/partials/_natural_box_model.less"
+			],
+			[
+				"foo",
+				"foo.less"
+			],
+			[
+				"adminles",
+				"apps/admin/styles/admin.less"
+			],
+			[
+				"api/oseco",
+				"apps/api/scripts/models/apis/ose.coffee"
+			],
+			[
+				"repocon",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"linkcon",
+				"app/controllers/links_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"redis",
+				"config/redis.yml"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"con/da",
+				"config/database.yml"
+			],
+			[
+				"conf/da",
+				"config/database.yml"
+			],
+			[
+				"prod",
+				"config/deploy/production.rb"
+			],
+			[
+				"ls",
+				"config/lsapi.yml"
+			],
+			[
+				"apicon",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"produ",
+				"config/deploy/production.rb"
+			],
+			[
+				"lsapi",
+				"config/lsapi.yml"
+			],
+			[
+				"con/confi",
+				"config/config.yml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"staging",
+				"config/deploy/staging.rb"
+			],
+			[
+				"expocon",
+				"app/controllers/exports_controller.rb"
+			],
+			[
+				"reporcon",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"advcon",
+				"app/controllers/advanced_exports_controller.rb"
+			],
+			[
+				"applicon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"linkcont",
+				"app/controllers/links_controller.rb"
+			],
+			[
+				"appcontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"repoco",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"layout/repo",
+				"app/views/layouts/reports.html.erb"
+			],
+			[
+				"rediche",
+				"lib/redirect_checker.rb"
+			],
+			[
+				"reporcont",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"urlmetr",
+				"app/models/resources/url_metric.rb"
+			],
+			[
+				"freshlin",
+				"app/models/fresh_link.rb"
+			],
+			[
+				"resour/urlmetr",
+				"app/models/resources/url_metric.rb"
+			],
+			[
+				"fresh",
+				"app/decorators/fresh_link_decorator.rb"
+			],
+			[
+				"expor/manag",
+				"app/models/exports/manager.rb"
+			],
+			[
+				"exporman",
+				"app/models/exports/manager.rb"
+			],
+			[
+				"freshlinkdecor",
+				"app/decorators/fresh_link_decorator.rb"
+			],
+			[
+				"https",
+				"lib/https_stats.rb"
+			],
+			[
+				"pageconspe",
+				"spec/controllers/pages_controller_spec.rb"
+			],
+			[
+				"linkconspe",
+				"spec/controllers/links_controller_spec.rb"
+			],
+			[
+				"domaiconspe",
+				"spec/controllers/domains_controller_spec.rb"
+			],
+			[
+				"anchorconsp",
+				"spec/controllers/anchors_controller_spec.rb"
+			],
+			[
+				"anchconspe",
+				"spec/controllers/anchors_controller_spec.rb"
+			],
+			[
+				"welcon",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"retryresour",
+				"spec/models/resources/retrying_resource_spec.rb"
+			],
+			[
+				"linkrb",
+				"app/models/resources/link.rb"
+			],
+			[
+				"resourcsp",
+				"spec/models/resources/resource_spec.rb"
+			],
+			[
+				"lsap",
+				"config/lsapi.yml"
+			],
+			[
+				"link",
+				"config/initializers/linkscape.rb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"resourc/url",
+				"app/models/resources/url_metric.rb"
+			],
+			[
+				"resource/link",
+				"app/models/resources/link.rb"
+			],
+			[
+				"link.rb",
+				"app/models/resources/link.rb"
+			],
+			[
+				"linkdecora",
+				"app/decorators/linkscape/link_decorator.rb"
+			],
+			[
+				"link/index",
+				"app/views/links/index.html.erb"
+			],
+			[
+				"link/link",
+				"app/views/links/_link.html.erb"
+			],
+			[
+				"resourcelink",
+				"app/models/resources/link.rb"
+			],
+			[
+				"linkscaperesource",
+				"app/decorators/linkscape/resource_decorator.rb"
+			],
+			[
+				"linkhel",
+				"app/helpers/links_helper.rb"
+			],
+			[
+				"linktoolb",
+				"app/views/links/_toolbar.html.erb"
+			],
+			[
+				"nuo",
+				"lib/null_object.rb"
+			],
+			[
+				"nulob",
+				"lib/null_object.rb"
+			],
+			[
+				"resource",
+				"app/models/resources/resource.rb"
+			],
+			[
+				"urlmetric",
+				"app/models/resources/url_metric.rb"
+			],
+			[
+				"urlmeman",
+				"lib/url_metrics_manager.rb"
+			],
+			[
+				"recont",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"stag",
+				"config/deploy/staging.rb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"urlme",
+				"lib/url_metrics_manager.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"linkhelp",
+				"app/helpers/links_helper.rb"
+			],
+			[
+				"toolbar",
+				"app/views/links/_toolbar.html.erb"
+			],
+			[
+				"ap/view/link/inde",
+				"app/views/links/index.html.erb"
+			],
+			[
+				"url",
+				"lib/url_metrics_manager.rb"
+			],
+			[
+				"viewdomindex",
+				"app/views/domains/index.html.erb"
+			],
+			[
+				"redicheck",
+				"lib/redirect_checker.rb"
+			],
+			[
+				"urlman",
+				"lib/url_metrics_manager.rb"
+			],
+			[
+				"site",
+				"lib/site.rb"
+			],
+			[
+				"socicont",
+				"app/controllers/socials_controller.rb"
+			],
+			[
+				"deploy.rb",
+				"config/deploy.rb"
+			],
+			[
+				"tasks/expor",
+				"lib/tasks/exports.rake"
+			],
+			[
+				"scp",
+				"scp-copy-paste"
+			],
+			[
+				"expuplhe",
+				"lib/export_upload_helper.rb"
+			],
+			[
+				"exprak",
+				"lib/tasks/exports.rake"
+			],
+			[
+				"aphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"apcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"null_obj",
+				"lib/null_object.rb"
+			],
+			[
+				"null",
+				"lib/null_object.rb"
+			],
+			[
+				"socicon",
+				"app/controllers/socials_controller.rb"
+			],
+			[
+				"layout/appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"redir",
+				"lib/redirect_checker.rb"
+			],
+			[
+				"rcon",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"ab",
+				"app/models/ability.rb"
+			],
+			[
+				"justdi",
+				"app/controllers/just_discovered_controller.rb"
+			],
+			[
+				"admin/http",
+				"app/models/admin/https_stat.rb"
+			],
+			[
+				"htstpro",
+				"app/models/https_stats_processor.rb"
+			],
+			[
+				"sch",
+				"config/schedule.yml"
+			],
+			[
+				"httpsstatsprocessor",
+				"app/models/https_stats_processor.rb"
+			],
+			[
+				"vcr",
+				"spec/support/vcr.rb"
+			],
+			[
+				"redchspe",
+				"spec/lib/redirect_checker_spec.rb"
+			],
+			[
+				"httpstatpro",
+				"app/jobs/https_stats_processor_job.rb"
+			],
+			[
+				"sche",
+				"config/schedule.yml"
+			],
+			[
+				"httstpro",
+				"app/models/https_stats_processor.rb"
+			],
+			[
+				"finasw",
+				"app/models/finalize_sweeper.rb"
+			],
+			[
+				"targjob",
+				"lib/targeted_job.rb"
+			],
+			[
+				"finalizesweeperjob",
+				"app/jobs/finalize_sweeper_job.rb"
+			],
+			[
+				"exportchecker",
+				"app/jobs/export_checker.rb"
+			],
+			[
+				"warmlinkscapecache",
+				"app/jobs/warm_linkscape_cache.rb"
+			],
+			[
+				"ap/jobs/",
+				"app/jobs/https_stats_processor_job.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"mag",
+				"/websites/moz/magellan.sublime-project"
+			],
+			[
+				"",
+				"/websites/moz/echelon/echelon.sublime-project"
+			],
+			[
+				"bar",
+				"/websites/moz/barbosa.sublime-project"
+			],
+			[
+				"ech",
+				"/websites/moz/echelon/echelon.sublime-project"
+			],
+			[
+				"robo",
+				"/websites/moz/OpenSiteExplorer/config/irobot.sublime-project"
+			],
+			[
+				"scu",
+				"/websites/moz/scuttlebutt-gem/scuttlebutt.sublime-project"
+			],
+			[
+				"iro",
+				"/websites/moz/OpenSiteExplorer/config/irobot.sublime-project"
+			],
+			[
+				"scut",
+				"/websites/moz/scuttlebutt-gem/scuttlebutt.sublime-project"
+			],
+			[
+				"lsap",
+				"/websites/moz/lsapi.sublime-project"
+			],
+			[
+				"ls",
+				"/websites/moz/lsapi.sublime-project"
+			],
+			[
+				"onena",
+				"/websites/moz/onenav/onenav.sublime-project"
+			],
+			[
+				"one",
+				"/websites/moz/onenav/onenav.sublime-project"
+			],
+			[
+				"ma",
+				"/websites/moz/ma.sublime-project"
+			],
+			[
+				"scutt",
+				"/websites/moz/scuttlebutt-gem/scuttlebutt.sublime-project"
+			],
+			[
+				"onenav",
+				"/websites/moz/onenav/onenav.sublime-project"
+			],
+			[
+				"freya",
+				"/websites/seomoz/moz/freya/freya.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/websites/jasonyounker",
+			"file_exclude_patterns": [
+				"jasonyounker.sublime-project"
+			],
+			"folder_exclude_patterns": [
+				"node_modules",
+				"bower_components",
+				"public"
+			]
+		}
+	]
+}

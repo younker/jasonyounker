@@ -1,0 +1,13 @@
+.vagrant
+.bundle
+.DS_Store
+.sass-cache
+*.swp
+*.pyc
+/node_modules
+/bower_components
+/public
+/Vagrantfile
+**/vendor
+/tmp
+/client/brbn
