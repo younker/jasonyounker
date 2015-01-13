@@ -8,6 +8,5 @@
 /bower_components
 /public
 /Vagrantfile
-**/vendor
 /tmp
 /client/brbn
