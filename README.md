@@ -1,8 +1,15 @@
 ## JasonYounker
 
-### Install Deps
-npm install -g nodemon
-npm install -g coffee-script
+jasonyounker.com
+
+### Quick Start
+- git clone git@github.com:younker/jasonyounker.git
+- cd jasonyounker
+- npm install -g nodemon
+- npm install -g coffee-script
+- npm install
+- grunt build
+- nodemon express/server.coffee
 
 ### Debugging Serverside
 1. start app with `--debug`

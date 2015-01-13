@@ -10,6 +10,14 @@ module.exports = (grunt) ->
 
     # https://github.com/sass/node-sass
     sass:
+      sandbox:
+        files: [
+          expand: true
+          cwd: 'apps/sandbox/styles'
+          src: '**/*.scss'
+          dest: 'public/styles/sandbox'
+          ext: '.css'
+        ]
       website:
         files: [
           expand: true
@@ -22,6 +30,8 @@ module.exports = (grunt) ->
     concat_css:
       website:
         src: [
+          "shared/styles/vendor/normalize-3.0.2.css"
+          "shared/styles/vendor/foundation.min.css"
           "apps/website/styles/**/*.css"
         ]
         dest: "public/styles/website.css"
@@ -32,14 +42,9 @@ module.exports = (grunt) ->
         force: true
       website: [
         'apps/website/styles/**/*.css'
-        '!apps/website/styles/vendor/*.css'
       ]
       public: [
-        'public/styles/**/*.css'
-        '!public/styles/vendor/*.css'
-        'public/scripts/**/*.js'
-        '!public/scripts/vendor/*.js'
-        'public/images/**/*'
+        'public/**/*'
       ]
 
     # https://github.com/jmreidy/grunt-browserify
@@ -48,7 +53,6 @@ module.exports = (grunt) ->
         transform: ['coffeeify', 'hbsfy']
       sandbox:
         src: [
-          'shared/**/*.{js, coffee, hbs}'
           'apps/sandbox/scripts/*.coffee'
           'apps/sandbox/templates/**/*.hbs'
           "!apps/sandbox/templates/layouts/application.hbs"
@@ -56,7 +60,8 @@ module.exports = (grunt) ->
         dest: 'public/scripts/sandbox.js'
       website:
         src: [
-          'shared/**/*.{js, coffee, hbs}'
+          'shared/scripts/lib/**/*.js'
+          'shared/scripts/models/**/*.js'
           'apps/website/scripts/**/*.coffee'
           'apps/website/templates/**/*.hbs'
           "!apps/website/templates/layouts/application.hbs"
@@ -79,12 +84,12 @@ module.exports = (grunt) ->
           src: '**'
           dest: 'public/images/'
         ]
-      shared:
+      shared_vendor:
         files: [
           expand: true
-          cwd: 'shared/images'
+          cwd: 'shared/scripts/vendor'
           src: '**'
-          dest: 'public/images'
+          dest: 'public/scripts/vendor'
         ]
 
     # https://github.com/gruntjs/grunt-contrib-uglify
@@ -148,10 +153,27 @@ module.exports = (grunt) ->
           'copy'
         ]
 
+    # Task to control all tasks associated with style assets
     grunt.registerTask 'styles', [
-      'clean:public'
-      'sass'      
-      'concat_css'
+      'sandbox-styles'
+      'website-styles'
+    ]
+
+    # General workflow:
+    #   1. compile scss to css and place in /public/sandbox.
+    # We do this so we can pick/choose specific css files per page in order
+    # to reduce collisions.
+    grunt.registerTask 'sandbox-styles', [
+      'sass:sandbox'
+    ]
+
+    # The general workflow is:
+    # 1. compile all scss to css in the /website directory
+    # 2. take all css files in /website and concat them; place in /public
+    # 3. clean out the /website directory of all css files
+    grunt.registerTask 'website-styles', [
+      'sass:website'
+      'concat_css:website'
       'clean:website'
     ]
 
